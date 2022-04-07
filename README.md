@@ -1,70 +1,82 @@
-Hi there 👋
-Gopal-Vau
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Gopal+Vau;+It's+Not+A+Name+Brother;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
+<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<h1 align="center">Hi <img src="https://github.com/Gopalvau/Gopalvau/blob/main/Wave.gif" height="55px" width="55px">, I'm Khalid Shaifullah</h1>
+<h3 align="center">¯\_(ツ)_/¯
 
-   𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴  
-line
+Programmer | Content Creator | Learner
 
-Typing SVG
+?></h3>
 
-🏆 Github Statistics :
-trophy
-𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 
+- 🔭 I’m currently working on **python script**
 
-20200808_160757
+- 🌱 I’m currently learning **python**
 
-20200808_160757
+- 👯 I’m looking to collaborate on **Open Source**
 
-line
+- 💬 Ask me about **Anything**
 
-A Passionate Frontend Developer From Bangladesh
-line
+- 📫 How to reach me **antor3350@gmail.com**
 
-➪ 𝙽𝙰𝙼𝙴 :- Gopal Rajbongshi
-line
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
-☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- 𝙲𝙾𝙼𝙿𝚄𝚃𝙴𝚁 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁
-line
+### Connect with me:
 
-line
+[<img align="left" alt="gopalvau.blogspot.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Gopal Vau | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
+[<img align="left" alt="Gopal Vau | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Gopal Vau | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
+[<img align="left" alt="Gopal Vau | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-☞︎︎︎ 𝙸𝙽𝚂𝙻𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵
-line
+<br />
 
-🤲🏻 𝚁𝙴𝙻𝙸𝙶𝙸𝙾𝙽 :- Hindu
-line
+### 🛠 &nbsp;Tech Stack
 
-➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- Gopal Vau
-line
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+<br />
 
-➪𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙵𝙰𝙶𝙴 :- Gopal Vauシ︎
-line
+<h3><b><i>🏆 Github Statistics :</i></b></h3>
+<a href="https://github.com/GopalVau"><img width=550 src="https://github-profile-trophy.vercel.app/?username=htr-tech&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :- Termux Super Xone✅
-line
+<h3><b><i>🏆 Profile Statistics :</i></b></h3>
+<a href="https://github.com/Khalid2009sm"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=htr-tech&color=blueviolet&style=flat-square"></a>
 
-line
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-line
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=htr-tech&show_icons=true&locale=en&layout=compact" alt="GopalVau" /></p>
 
-➪ 𝙵𝚄𝙽 𝙵𝙰𝙲𝚃 ** 𝙸 𝚃𝙷𝙸𝙽𝙺 𝙸 𝙰𝙼 𝙵𝚄𝙽𝙽𝚈**
-line
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GopalVau&show_icons=true&locale=en" alt="GOPAL VAU" /></p>
+<br />
+### ABOUT ME ➤➤➤
+<li> 😇 <i> HINDU</i></li>
+<li> 🌚 <i>BORNED MINGLE</i></li>
+<li> 💠 <i>STUDENT </i></li>
+<li> 🤠 <i>FOCUSING ON ACADEMIC STUDY AND PYTHON </i></li><br>
 
- Connect With Me:
-Facebook Messenger
+[website]: https://Gopalvau.blogspot.com
+[facebook]: https://facebook.com/Gopal.26867
+[youtube]: https://youtube.com/c/Gopal.26867
+[instagram]: https://instagram.com/gopal.26867/
+[telegram]: https://t.me/gopal.26867
 
-⚙️   𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
-bootstrap c cplusplus csharp css3 git heroku html5 java javascript laravel linux mysql php python tailwind
 
- Skills & DevTools Stack :
-Python  JavaScript  React  Node.js  Bootstrap
-HTML  CSS  Git  GitHub  Markdown
-Visual Studio Code  Illustrator 
 
- GitHub Stats :
-Gopal-Vau GitHub stats	Top Languages
-Gopal-Vau GitHub Readme Streak Stats
 
- GitHub Contribution Graph :
+
+
+
 
 
 
