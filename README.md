@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Gopal+Vau;+It's+Not+A+Name+Brother;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-<h1 align="center">Hi <img src="https://github.com/Gopalvau/Gopalvau/blob/main/Wave.gif" height="55px" width="55px">, I'm Gopal Vau</h1>
+<h1 align="center">Hi <img src="https://github.com/Gopalvau/Gopalvau/blob/main/Wave.gif" height="55px" width="55px">, I'm Z10N KN0X</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
@@ -15,7 +15,7 @@ Programmer | Content Creator | Learner
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **antor3350@gmail.com**
+- 📫 How to reach me **Z10nKn0x@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
@@ -55,9 +55,9 @@ Programmer | Content Creator | Learner
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=htr-tech&show_icons=true&locale=en&layout=compact" alt="GopalVau" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=htr-tech&show_icons=true&locale=en&layout=compact" alt="Z10n_Kn0x" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=GopalVau&show_icons=true&locale=en" alt="GOPAL VAU" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Z10n_Kn0x&show_icons=true&locale=en" alt="Z10N KN0X" /></p>
 <br />
 ### ABOUT ME ➤➤➤
 <li> 😇 <i> HINDU</i></li>
@@ -65,11 +65,11 @@ Programmer | Content Creator | Learner
 <li> 💠 <i>STUDENT </i></li>
 <li> 🤠 <i>FOCUSING ON ACADEMIC STUDY AND PYTHON </i></li><br>
 
-[website]: https://Gopalvau.blogspot.com
-[facebook]: https://facebook.com/Gopal.26867
-[youtube]: https://youtube.com/c/Gopal.26867
-[instagram]: https://instagram.com/gopal.26867/
-[telegram]: https://t.me/gopal.26867
+[website]: https://Z10n_Kn0x.com
+[facebook]: https://www.facebook.com/profile.php?id=100000125364860
+[youtube]: https://youtube.com/c/Z10n.26867
+[instagram]: https://instagram.com/Z10n.26867/
+[telegram]: https://t.me/Z10n_Kn0x
 
 
 
