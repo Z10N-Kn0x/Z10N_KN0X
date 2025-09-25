@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Z10n+Kn0x;+It's+Not+A+Name+Brother;It's+A+Brand;Thank+You+Everyone+LvuAll)](https://git.io/typing-svg)
 <p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESH-SPAMMAR AND PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-<h1 align="center">Hi <img src="https://github.com/Gopalvau/Gopalvau/blob/main/Wave.gif" height="55px" width="55px">, I'm Z10N KN0X</h1>
+<h1 align="center">Hi <img src="https://github.com/Z10Nblobvau/Z10n_Kn0xblob/main/Wave.gif" height="55px" width="55px">, I'm Z10N KN0X</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Content Creator | Learner
